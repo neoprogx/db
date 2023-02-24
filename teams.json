@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63f864dbf36e7a53b01f21f2"
+  },
+  "name": "Gachi Boys",
+  "country": "Gym",
+  "founded": 2007
+},{
+  "_id": {
+    "$oid": "63f86524f36e7a53b01f21f3"
+  },
+  "name": "Femboys",
+  "country": "osu!",
+  "founded": 2015
+},{
+  "_id": {
+    "$oid": "63f86547f36e7a53b01f21f4"
+  },
+  "name": "BLM",
+  "country": "Africa",
+  "founded": 2020
+}]
